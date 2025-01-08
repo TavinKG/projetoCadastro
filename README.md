@@ -18,15 +18,12 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [PHP](https://www.php.net/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [MySql Workbench](https://www.mysql.com/products/workbench/)
-- [Bootstrap](https://getbootstrap.com/)
 - [VS Code](https://code.visualstudio.com/)
 
 <h1 align="center">Funcionalidades do Projeto</h1>
 
-- `Cadastro de clientes e Login de funcionários`: O sistema exige que os funcionários realizem login para acessar as funcionalidades. Os clientes devem ser cadastrados no sistema para que possam usufruir dos serviços;
-- `Gestão de Livros (CRUD)`: Permite adicionar, buscar, atualizar e remover registros de livros, garantindo a manutenção de um catálogo atualizado;
-- `Registro de Empréstimos`: Os funcionários podem registrar os empréstimos dos livros solicitados pelos clientes, acompanhando o histórico de transações;
-- `Controle de Multas por Atraso`: Funcionalidade para aplicar e registrar multas aos clientes que não devolverem os livros no prazo estipulado;
-- `Gerenciamento de Estoque`: O sistema mantém o controle do estoque de cada livro, possibilitando a visualização de quantidades disponíveis.
+- `Cadastro e Login de Usuários`: Permite que clientes e funcionários se cadastrem e façam login no sistema. Clientes têm acesso às funcionalidades de compra, enquanto funcionários gerenciam os produtos e operações internas;
+- `Gestão de Produtos (CRUD)`: Funcionalidade para adicionar, visualizar, editar e excluir produtos, garantindo um catálogo atualizado e bem gerenciado;
+- `Tela Principal da Loja`: Exibe os produtos disponíveis de forma organizada oferecendo uma experiência de navegação intuitiva aos clientes;
+- `Carrinho de Compras`: Os clientes podem adicionar produtos ao carrinho, visualizar o total da compra, alterar quantidades ou remover itens, finalizando o pedido de forma prática e segura.
