@@ -1,5 +1,5 @@
 <h1 align="center">Projeto CRUD</h1>
-<p align="center">Projeto para práticar funções CRUD utilizando PHP.</p>
+<p align="center">Projeto para praticar funções CRUD utilizando PHP.</p>
 
 ![GitHub language count](https://img.shields.io/github/languages/count/TavinKG/projetoCadastro?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/TavinKG/projetoCadastro?style=for-the-badge)
@@ -10,8 +10,8 @@
 
 
 <h1 align="center">Introdução</h1>
-<p>Projeto Acadêmico realizado para obter aprovação em Desenvolvimento Full Stack e Banco de Dados.</p>
-<p>Consiste em um sistema de biblioteca em linguagem PHP, JS e SQL.</p>
+<p>Projeto desenvolvido durante a matéria de Desenvolvimento Framework para praticar operações CRUD usando PDO e implementar a arquitetura MVC.</p>
+<p>Consiste em um sistema de loja, onde é possível cadastrar e visualizar produtos.</p>
 
 ### 🛠 Tecnologias
 
